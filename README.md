@@ -4,7 +4,7 @@
 ---
 
 ## 📌Project Overview
-This project was developed for Melodica Media Corporation, an imaginary online music store based in California. The objective was to transform raw transactional data (OLTP) into actionable business insights by building a robust Data Pipeline.
+This project was developed for Melodica Media Corporation, an **imaginary** online music store based in California. The objective was to transform raw transactional data (OLTP) into actionable business insights by building a robust Data Pipeline.
 
 The solution covers the entire BI lifecycle: from source data exploration and ETL processing to Data Warehouse design and interactive dashboarding.
 
